@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /assets/docs/cv_dec2020.pdf
+    url: /cv/
   - title: "Publications"
     url: /publications/
   - title: "Contact"

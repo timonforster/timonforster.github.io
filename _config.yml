@@ -68,7 +68,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:timon.forster@fu-berlin.de
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar ai-2x" # "fas fa-fw fa-link"
+      icon: "ai ai-google-scholar-square" # "ai ai-google-scholar ai-2x" # "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=i1qjE7gAAAAJ&hl=en&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

@@ -63,10 +63,9 @@ author:
 # "https://pbs.twimg.com/profile_images/1329467882036715527/OK5Y2evc_400x400.jpg"
 # "/assets/images/bio-photo.jpg"
   bio    : "PhD Candidate in International Relations, Freie Universität Berlin"
+  [Curriculum Vitae](/assets/docs/cv_dec2020.pdf).
 
   links:
-    - label: "Curriculum Vitae"
-      url: /assets/docs/cv_dec2020.pdf
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:timon.forster@fu-berlin.de

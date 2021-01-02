@@ -6,7 +6,7 @@ author_profile: true
 
 I am a PhD Candidate in International Relations at the [Berlin Graduate School for Global and Transregional Studies](https://www.scripts-berlin.eu/), Freie Universität Berlin.
 
-My research focuses on the political economy of international organizations (e.g., examining the effects and decisions of the IMF), global health & development, and leadership in times of crisis. I am particularly interested in studying the micro-foundations of state action in global governance using text-as-data and regression analysis.
+My research focuses on the political economy of international organizations (e.g., examining the effects and decisions of the IMF), public health & inequality, and leadership in times of crisis. I am particularly interested in studying the micro-foundations of state action in global governance using text-as-data and regression analysis.
 
 Currently, I am pursuing the following research questions:
 

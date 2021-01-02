@@ -3,14 +3,14 @@ permalink: /home/
 title: "Home"
 ---
 
-I am a PhD Candidate in International Relations at the Berlin Graduate School for Global and Transregional Studies, Freie Universität Berlin.
+I am a PhD Candidate in International Relations at the [Berlin Graduate School for Global and Transregional Studies](https://www.scripts-berlin.eu/), Freie Universität Berlin.
 
-I am currently pursuing the following research questions:
+My research focuses on the political economy of international organizations (e.g., examining the effects and decisions of the IMF), global health & development, and leadership in times of crisis. I am particularly interested in studying the micro-foundations of state action in global governance using text-as-data and regression analysis.
+
+Currently, I am pursuing the following research questions:
 
 * What is the role of deliberation in decision-making of international organizations?
-
 * How do states pursue their preferences in governing bodies of international organizations?
+* How does leaders' education shape their policy responses to societal crises?
 
-* How does leaders' educational background shape their policy responses in times of crisis?
-
-* What are the obstacles to a more progressive Green Deal in Europe?
+I am also a member of the [Foundation for European Progressive Studies](https://www.feps-europe.eu/) (FEPS) Young Academics Network (2020 cohort), where I am studying the politics of the Green Deal in Europe.

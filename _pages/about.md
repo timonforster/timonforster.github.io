@@ -13,4 +13,4 @@ Currently, I am pursuing the following research questions:
 * How do states pursue their preferences in governing bodies of international organizations?
 * How do world leaders shape government responses to societal crises?
 
-I am also a member of the [Foundation for European Progressive Studies](https://www.feps-europe.eu/) (FEPS) Young Academics Network (2020 cohort), where I am studying the politics of the Green Deal in Europe.
+I am also a member of the [Foundation for European Progressive Studies](https://www.feps-europe.eu/) (FEPS) Young Academics Network (2020 cohort), where I am studying the politics of the European Green Deal.

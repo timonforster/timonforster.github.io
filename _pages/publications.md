@@ -5,11 +5,15 @@ title: "Publications"
 
 ## Articles in peer-reviewed journals
 
-1. **Forster, T.**, and M. Heinzel. 2021. “[Reacting, Fast and Slow: How World Leaders Shaped Government Responses to COVID-19.](https://doi.org/10.1080/13501763.2021.1942157)” *Journal of European Public Policy* 28(8): 1299—1320.
+<ol reversed>
 
-1. **Forster, T.**, A. Kentikelenis, T. Stubbs, and L. King. 2020. “[Globalization and Health Equity: The Impact of Structural Adjustment Programs in Developing Countries.](https://doi.org/10.1016/j.socscimed.2019.112496)” *Social Science & Medicine* 267.
+<li> <b>Forster, T.</b>, and M. Heinzel. 2021. <a href = "https://doi.org/10.1080/13501763.2021.1942157">"Reacting, Fast and Slow: How World Leaders Shaped Government Responses to COVID-19."</a> <i>Journal of European Public Policy</i> 28(8): 1299—1320. </li>
 
-1. **Forster, T.**, A. Kentikelenis, T. Stubbs, B. Reinsberg, and L. King. 2019. “[How Structural Adjustment Programs Affect Inequality: A Disaggregated Analysis of IMF Conditionality, 1980—2014.](https://doi.org/10.1016/j.ssresearch.2019.01.001)” *Social Science Research* 80: 83—113.
+<li> <b>Forster, T.</b>, A. Kentikelenis, T. Stubbs, and L. King. 2020. <a href = "https://doi.org/10.1016/j.socscimed.2019.112496">"Globalization and Health Equity: The Impact of Structural Adjustment Programs in Developing Countries."</a> <i>Social Science & Medicine</i> 267. </li>
+
+<li> <b>Forster, T.</b>, A. Kentikelenis, T. Stubbs, B. Reinsberg, and L. King. 2019.<a href = "https://doi.org/10.1016/j.ssresearch.2019.01.001">"How Structural Adjustment Programs Affect Inequality: A Disaggregated Analysis of IMF Conditionality, 1980—2014."</a> <i>Social Science Research</i> 80: 83—113. </li>
+
+</ol>
 
 
 ## Policy reports

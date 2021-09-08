@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Articles in peer-reviewed journals
 
-1. **Forster, T.**, and M. Heinzel. 2021. “[Reacting, Fast and Slow: How World Leaders Shaped Government Responses to COVID-19.](https://doi.org/10.1080/13501763.2021.1942157)” *Journal of European Public Policy* 28(8):1299—1320.
+1. **Forster, T.**, and M. Heinzel. 2021. “[Reacting, Fast and Slow: How World Leaders Shaped Government Responses to COVID-19.](https://doi.org/10.1080/13501763.2021.1942157)” *Journal of European Public Policy* 28(8): 1299—1320.
 
 1. **Forster, T.**, A. Kentikelenis, T. Stubbs, and L. King. 2020. “[Globalization and Health Equity: The Impact of Structural Adjustment Programs in Developing Countries.](https://doi.org/10.1016/j.socscimed.2019.112496)” *Social Science & Medicine* 267.
 

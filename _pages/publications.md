@@ -15,12 +15,21 @@ title: "Publications"
 
 </ol>
 
+## Book chapters
+
+<ol reversed>
+
+<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development</i></a>, eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing. </li>
+
+</ol>
 
 ## Policy reports
 
 <ol reversed>
 
-<li> Doyle, K., <b>T. Forster</b>, A. Kentikelenis, H. Legido-Quigley and M. Torrecilla. 2019. <a href = "https://www.tasc.ie/assets/files/pdf/1953_tasc_health__inequalities_report_2019-final.pdf">“Reducing Health Inequalities: The Role of Civil Society.”</a> Brussels: Foundation for European Progressive Studies (FEPS) & Think-tank for Action on Social Change (TASC). </li>
+<li> Hadji-Lazaro, P., S. Quorning, T. Fröhlich, H. Theine, and <b>T. Forster</b>. 2022. <a href = "https://www.feps-europe.eu/resources/publications/842:taking-the-temperature-of-the-eu-green-deal.html">“Taking the Temperature of the European Green Deal.”</a> Brussels: Foundation for European Progressive Studies (FEPS). </li>
+
+<li> Doyle, K., <b>T. Forster</b>, A. Kentikelenis, H. Legido-Quigley, and M. Torrecilla. 2019. <a href = "https://www.tasc.ie/assets/files/pdf/1953_tasc_health__inequalities_report_2019-final.pdf">“Reducing Health Inequalities: The Role of Civil Society.”</a> Brussels: Foundation for European Progressive Studies (FEPS) & Think-tank for Action on Social Change (TASC). </li>
 
 <li> <b>Forster, T.</b>, A. Kentikelenis, and C. Bambra. 2018. <a href = "https://refubium.fu-berlin.de/handle/fub188/23222">“Health Inequalities in Europe: Setting the Stage for Progressive Policy Action.”</a> Brussels: Foundation for European Progressive Studies (FEPS) & Think-tank for Action on Social Change (TASC). </li>
 

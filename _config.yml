@@ -60,7 +60,8 @@ author:
   avatar : "/assets/images/bio-photo-tw_400x400.jpg"
 # "https://pbs.twimg.com/profile_images/1329467882036715527/OK5Y2evc_400x400.jpg"
 # "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate in International Relations, Freie Universität Berlin"
+  bio    : "PhD Candidate in International Relations, Freie Universität Berlin
+  Pre-doc fellow, Boston University Global Development Policy Center"
 # <br><br>[Curriculum Vitae](/assets/docs/cv_dec2020.pdf)
 
   links:
@@ -68,7 +69,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:timon.forster@fu-berlin.de
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=i1qjE7gAAAAJ&hl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

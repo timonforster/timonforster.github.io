@@ -3,6 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
+If you do not have access to any of the publications below, please do send me an e-mail and I would be happy to share a pdf with you.
+
 ## Articles in peer-reviewed journals
 
 <ol reversed>

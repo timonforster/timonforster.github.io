@@ -21,7 +21,7 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
-<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development”</i></a>, eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing. </li>
+<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development”</i></a>, eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing: 376—391. </li>
 
 </ol>
 

@@ -42,6 +42,8 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
+<li> <b>Forster, T.</b>, and M. Heinzel. 2022. <a href = "https://blogs.lse.ac.uk/europpblog/2022/02/23/academically-trained-leaders-made-a-difference-during-the-early-stages-of-the-pandemic/">“Academically Trained Leaders Made a Difference during the Early Stages of the Pandemic.”</a> <i>LSE EUROPP — European Politics and Policy</i> 23 February. </li>
+
 <li> <b>Forster, T.</b>, and A. Kentikelenis. 2019. <a href = "https://doi.org/10.1093/eurpub/cky249">“Austerity and Health in Europe: Disentangling the Causal Links.”</a> <i>European Journal of Public Health</i> 29(5): 808—809. (editorial) </li>
 
 <li> <b>Forster, T.</b>, B. Reinsberg, and T. Stubbs. 2019. <a href = "http://theconversation.com/imf-says-it-cares-about-inequality-but-will-it-change-its-ways-120105">“IMF says it cares about inequality. But will it change its ways?”</a> <i>The Conversation</i>. 17 July. </li>

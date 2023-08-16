@@ -9,7 +9,7 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
-<li> <b>Forster, T.</b>. Forthcoming. “Respected individuals: When state representatives wield outsize influence in international organizations.” <i>International Affairs</i>. </li>
+<li> <b>Forster, T.</b> Forthcoming. “Respected individuals: When state representatives wield outsize influence in international organizations.” <i>International Affairs</i>. </li>
 
 <li> <b>Forster, T.</b>, and M. Heinzel. 2021. <a href = "https://doi.org/10.1080/13501763.2021.1942157">“Reacting, fast and slow: How world leaders shaped government responses to COVID-19.”</a> <i>Journal of European Public Policy</i> 28(8): 1299—1320. </li>
 
@@ -23,7 +23,7 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
-<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development”</i></a>, eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing: 376—391. </li>
+<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development,”</i></a> eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing: 376—391. </li>
 
 </ol>
 
@@ -44,7 +44,7 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
-<li> <b>Forster, T.</b>, and M. Heinzel. 2022. <a href = "https://blogs.lse.ac.uk/europpblog/2022/02/23/academically-trained-leaders-made-a-difference-during-the-early-stages-of-the-pandemic/">“Academically trained leaders made a difference during the early stages of the pandemic.”</a> <i>LSE EUROPP — European Politics and Policy</i> 23 February. </li>
+<li> <b>Forster, T.</b>, and M. Heinzel. 2022. <a href = "https://blogs.lse.ac.uk/europpblog/2022/02/23/academically-trained-leaders-made-a-difference-during-the-early-stages-of-the-pandemic/">“Academically trained leaders made a difference during the early stages of the pandemic.”</a> <i>LSE EUROPP — European Politics and Policy</i>. 23 February. </li>
 
 <li> <b>Forster, T.</b>, and A. Kentikelenis. 2019. <a href = "https://doi.org/10.1093/eurpub/cky249">“Austerity and health in Europe: Disentangling the causal links.”</a> <i>European Journal of Public Health</i> 29(5): 808—809. (editorial) </li>
 

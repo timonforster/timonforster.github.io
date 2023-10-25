@@ -3,7 +3,7 @@ permalink: /home/
 title: "Home"
 ---
 
-I am a postdoctoral research fellow in International Relations at the [University of St.Gallen](https://www.unisg.ch/en/universitaet/schools/school-of-economics-and-political-science-seps/), funded by the University's Basic Research Fund.
+I am a postdoctoral research fellow in International Relations at the [University of St.Gallen](https://www.unisg.ch/en/universitaet/schools/school-of-economics-and-political-science-seps/)'s School of Economics and Political Science, funded by the university's Basic Research Fund.
 
 My research focuses on the political economy of international organizations to understand global development, public health, and inequality. I am particularly interested in the micro-foundations of state action in global governance --- including questions of strategic behavior by powerful member-states as well as voice & representation of relatively weaker states --- using text-as-data, regression analysis, and expert interviews.
 

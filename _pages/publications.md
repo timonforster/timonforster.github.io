@@ -23,6 +23,8 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
+<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2024. “Neoliberalism and health in global context: The role of international organizations” in <a href = "https://www.routledge.com/The-Routledge-Handbook-of-the-Political-Economy-of-Health-and-Healthcare/Primrose-Loeppky-Chang/p/book/9780367861360"><i>“The Routledge Handbook of the Political Economy of Health and Healthcare,”</i></a> eds. D. Primrose, R.D. Loeppky, and R. Chang. Routledge. </li>
+
 <li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development,”</i></a> eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing: 376—391. </li>
 
 </ol>

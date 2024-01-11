@@ -9,7 +9,7 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
-<li> <b>Forster, T.</b> Forthcoming. “Respected individuals: When state representatives wield outsize influence in international organizations.” <i>International Affairs</i>. </li>
+<li> <b>Forster, T.</b> 2024. <a href = "https://doi.org/10.1093/ia/iiad226">“Respected individuals: When state representatives wield outsize influence in international organizations.”</a> <i>International Affairs</i> 100(1): 261—281. </li>
 
 <li> <b>Forster, T.</b>, and M. Heinzel. 2021. <a href = "https://doi.org/10.1080/13501763.2021.1942157">“Reacting, fast and slow: How world leaders shaped government responses to COVID-19.”</a> <i>Journal of European Public Policy</i> 28(8): 1299—1320. </li>
 

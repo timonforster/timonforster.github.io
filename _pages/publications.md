@@ -9,6 +9,8 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
+<li> Merling, L., and <b>T. Forster</b> Forthcoming. <a href = "https://doi.org/10.1111/1758-5899.13367">“Climate policy at the International Monetary Fund: No voice for the vulnerable?”</a> <i>Global Policy</i>.</li>
+
 <li> <b>Forster, T.</b> 2024. <a href = "https://doi.org/10.1093/ia/iiad226">“Respected individuals: When state representatives wield outsize influence in international organizations.”</a> <i>International Affairs</i> 100(1): 261—281. </li>
 
 <li> <b>Forster, T.</b>, and M. Heinzel. 2021. <a href = "https://doi.org/10.1080/13501763.2021.1942157">“Reacting, fast and slow: How world leaders shaped government responses to COVID-19.”</a> <i>Journal of European Public Policy</i> 28(8): 1299—1320. </li>
@@ -23,7 +25,7 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
-<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2024. “Neoliberalism and health in global context: The role of international organizations” in <a href = "https://www.routledge.com/The-Routledge-Handbook-of-the-Political-Economy-of-Health-and-Healthcare/Primrose-Loeppky-Chang/p/book/9780367861360"><i>“The Routledge Handbook of the Political Economy of Health and Healthcare,”</i></a> eds. D. Primrose, R.D. Loeppky, and R. Chang. Routledge. </li>
+<li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2024. “Neoliberalism and health in global context: The role of international organizations” in <a href = "https://www.routledge.com/The-Routledge-Handbook-of-the-Political-Economy-of-Health-and-Healthcare/Primrose-Loeppky-Chang/p/book/9780367861360"><i>“The Routledge Handbook of the Political Economy of Health and Healthcare,”</i></a> eds. D. Primrose, R.D. Loeppky, and R. Chang. Routledge.</li>
 
 <li> <b>Forster, T.</b>, T. Stubbs, and A. Kentikelenis. 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development,”</i></a> eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing: 376—391. </li>
 

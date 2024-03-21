@@ -2,6 +2,7 @@
 title: "Home"
 layout: single
 author_profile: true
+classes: wide
 ---
 
 I am a postdoctoral research fellow in International Relations at the [University of St.Gallen](https://www.unisg.ch/en/universitaet/schools/school-of-economics-and-political-science-seps/)'s School of Economics and Political Science, funded by the university's Basic Research Fund.

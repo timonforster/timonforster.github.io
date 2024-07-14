@@ -10,7 +10,7 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
-<li> Merling, L., and <b>T. Forster</b> Forthcoming. <a href = "https://doi.org/10.1111/1758-5899.13367">“Climate policy at the International Monetary Fund: No voice for the vulnerable?”</a> <i>Global Policy</i>.</li>
+<li> Merling, L., and <b>T. Forster</b> 2024. <a href = "https://doi.org/10.1111/1758-5899.13367">“Climate policy at the International Monetary Fund: No voice for the vulnerable?”</a> <i>Global Policy</i> 15(3): 539—553.</li>
 
 <li> <b>Forster, T.</b> 2024. <a href = "https://doi.org/10.1093/ia/iiad226">“Respected individuals: When state representatives wield outsize influence in international organizations.”</a> <i>International Affairs</i> 100(1): 261—281. </li>
 

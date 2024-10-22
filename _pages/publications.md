@@ -49,6 +49,10 @@ If you do not have access to any of the publications below, please send me an e-
 
 <ol reversed>
 
+<li> <b>Forster, T.</b>. 2024. <a href = "https://www.bu.edu/gdp/2024/07/16/enough-voice-for-the-vulnerable-why-climate-vulnerable-countries-need-more-voting-power-within-the-international-monetary-fund/">“Enough voice for the vulnerable? Why climate-vulnerable countries need more voting power within the International Monetary Fund.”</a> <i>Boston University Global Development Policy Center</i>. 16 July. </li>
+
+<li> <b>Forster, T.</b>. 2024. <a href = "https://imfboss.com/2024/04/02/imf-governance-and-decision-making-why-we-need-to-talk-about-state-representatives/">“IMF governance and decision-making: Why we need to talk about state representatives.”</a> <i>IMF Boss, tracking the fight to head the Fund</i>, Bretton Woods Project. 2 April. </li>
+
 <li> <b>Forster, T.</b>, and M. Heinzel. 2022. <a href = "https://blogs.lse.ac.uk/europpblog/2022/02/23/academically-trained-leaders-made-a-difference-during-the-early-stages-of-the-pandemic/">“Academically trained leaders made a difference during the early stages of the pandemic.”</a> <i>LSE EUROPP — European Politics and Policy</i>. 23 February. </li>
 
 <li> <b>Forster, T.</b>, and A. Kentikelenis. 2019. <a href = "https://doi.org/10.1093/eurpub/cky249">“Austerity and health in Europe: Disentangling the causal links.”</a> <i>European Journal of Public Health</i> 29(5): 808—809. (editorial) </li>

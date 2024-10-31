@@ -14,4 +14,6 @@ Currently, I am pursuing the following research questions:
 * How does deliberation contribute to decision-making of international organizations?
 * What strategies do states and state representatives use to pursue their preferences in governing bodies of international organizations?
 
-My research has appeared or is forthcoming in <i>Review of International Political Economy</i>, <i>International Affairs</i>, <i>Journal of European Public Policy</i>, and <i>Global Policy</i>, among others. I have been funded by the German Academic Exchange Service (DAAD), the Boston University Global Development Policy Center, and the University of St.Gallen's basic research fund. My dissertation was awarded the 2023 [Ernst-Reuter Prize](https://www.fu-berlin.de/sites/alumni/teilnehmen/ert/ert-2023/index.html) for the best dissertation in the Social Sciences at the Freie Universität Berlin.
+My research has appeared or is forthcoming in <i>Review of International Political Economy</i>, <i>International Affairs</i>, <i>Journal of European Public Policy</i>, and <i>Global Policy</i>, among others.
+
+I have been funded by the German Academic Exchange Service (DAAD), the Boston University Global Development Policy Center, and the University of St.Gallen's basic research fund. My dissertation was awarded the 2023 [Ernst-Reuter Prize](https://www.fu-berlin.de/sites/alumni/teilnehmen/ert/ert-2023/index.html) for the best dissertation in the Social Sciences at the Freie Universität Berlin.

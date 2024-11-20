@@ -4,8 +4,6 @@ title: "Publications"
 classes: wide
 ---
 
-If you do not have access to any of the publications below, please send me an e-mail.
-
 ## Articles in peer-reviewed journals
 
 <ol reversed>

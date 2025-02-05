@@ -1,6 +1,6 @@
 ---
-permalink: /data/
-title: "Data"
+permalink: /datasets/
+title: "Datasets"
 classes: wide
 ---
 

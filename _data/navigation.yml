@@ -3,7 +3,7 @@ main:
     url: /home/
   - title: "Publications"
     url: /publications/
-  - title: "Data"
-    url: /data/
+  - title: "Datasets"
+    url: /datasets/
   - title: "CV"
     url: /assets/docs/CV_Oct2024.pdf

@@ -8,7 +8,7 @@ classes: wide
 
 <ol reversed>
 
-<li> <b>Forster, T.</b>, Honig, D. and Kentikelenis, A., 2025. <a href = "http://dx.doi.org/10.1080/09692290.2024.2441136">“Formal governance matters: when, how, and why states act on the IMF Executive Board.”</a> <i>Review of International Political Economy</i>. </li>
+<li> <b>Forster, T.</b>, Honig, D. and Kentikelenis, A., 2025. <a href = "http://dx.doi.org/10.1080/09692290.2024.2441136">“Formal governance matters: when, how, and why states act on the IMF Executive Board.”</a> <i>Review of International Political Economy</i> 32(3): 818—846.</li>
 
 <li> Merling, L., and <b>Forster, T.</b>, 2024. <a href = "https://doi.org/10.1111/1758-5899.13367">“Climate policy at the International Monetary Fund: No voice for the vulnerable?”</a> <i>Global Policy</i> 15(3): 539—553.</li>
 

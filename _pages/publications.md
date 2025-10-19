@@ -8,7 +8,7 @@ classes: wide
 
 <ol reversed>
 
-<li> <b>Forster, T.</b>, forthcoming. “Home turf: Headquarters of international organizations and earmarked funding.”</a> <i>The Review of International Organizations</i>.</li>
+<li> <b>Forster, T.</b>, forthcoming. “Home turf: Headquarters of international organizations and earmarked funding.” <i>The Review of International Organizations</i>.</li>
 
 <li> <b>Forster, T.</b>, Honig, D. and Kentikelenis, A., 2025. <a href = "http://dx.doi.org/10.1080/09692290.2024.2441136">“Formal governance matters: when, how, and why states act on the IMF Executive Board.”</a> <i>Review of International Political Economy</i> 32(3): 818—846.</li>
 

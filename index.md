@@ -7,7 +7,7 @@ classes: wide
 
 I am a postdoctoral research fellow in International Relations at the [University of St Gallen](https://www.unisg.ch/en/universitaet/schools/school-of-economics-and-political-science-seps/), School of Economics and Political Science. Previously, I was a postdoctoral research fellow with the [Boston University Global Development Policy Center](https://www.bu.edu/gdp/). I received my PhD from the [Freie Universität Berlin](https://www.scripts-berlin.eu/), in December 2022.
 
-In January 2026, I will join the [Institut Barcelona d'Estudis Internacionals (IBEI)](https://www.ibei.org/en) as an Assistant Professor in International Political Economy.
+In 2026, I will join the [Institut Barcelona d'Estudis Internacionals (IBEI)](https://www.ibei.org/en) as an Assistant Professor in International Political Economy.
 
 My research examines the political economy of international organizations, with a focus on how they shape global development, climate change, inequality, and public health. I explore the micro-foundations of state action in global governance using methods from computational social science, regression analysis, and expert interviews.
 

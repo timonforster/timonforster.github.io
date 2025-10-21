@@ -38,7 +38,7 @@ Doyle, K., <b>Forster, T.</b>, Kentikelenis, A., Legido-Quigley, H. and Torrecil
 <b>Forster, T.</b>, Kentikelenis, A. and Bambra, C., 2018. <a href = "https://refubium.fu-berlin.de/handle/fub188/23222">“Health inequalities in Europe: Setting the stage for progressive policy action.”</a> Brussels: Foundation for European Progressive Studies (FEPS) & Think-tank for Action on Social Change (TASC).
 
 
-## Op-eds, reviews, and other publications
+## Op-eds, book reviews, and other publications
 
 <b>Forster, T.</b>, 2024. <a href = "https://www.bu.edu/gdp/2024/07/16/enough-voice-for-the-vulnerable-why-climate-vulnerable-countries-need-more-voting-power-within-the-international-monetary-fund/">“Enough voice for the vulnerable? Why climate-vulnerable countries need more voting power within the International Monetary Fund.”</a> <i>Boston University Global Development Policy Center</i>. 16 July.
 

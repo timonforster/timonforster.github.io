@@ -6,7 +6,6 @@ classes: wide
 
 ## Articles in peer-reviewed journals
 
-<ol reversed>
 
 <li> <b>Forster, T.</b>, forthcoming. “Home turf: Headquarters of international organizations and earmarked funding.” <i>The Review of International Organizations</i>.</li>
 
@@ -22,17 +21,13 @@ classes: wide
 
 <li> <b>Forster, T.</b>, Kentikelenis, A., Reinsberg, B., Stubbs, T. and King, L., 2019. <a href = "https://doi.org/10.1016/j.ssresearch.2019.01.001">“How structural adjustment programs affect inequality: A disaggregated analysis of IMF conditionality, 1980—2014.”</a> <i>Social Science Research</i> 80: 83—113. </li>
 
-</ol>
 
 ## Book chapters
 
-<ol reversed>
+<b>Forster, T.</b>, Stubbs, T. and Kentikelenis, A., 2024. “Neoliberalism and health in global context: The role of international organizations” in <a href = "https://www.routledge.com/The-Routledge-Handbook-of-the-Political-Economy-of-Health-and-Healthcare/Primrose-Loeppky-Chang/p/book/9780367861360"><i>“The Routledge Handbook of the Political Economy of Health and Healthcare,”</i></a> eds. D. Primrose, R.D. Loeppky, and R. Chang. Routledge: 154—165.
 
-<li> <b>Forster, T.</b>, Stubbs, T. and Kentikelenis, A., 2024. “Neoliberalism and health in global context: The role of international organizations” in <a href = "https://www.routledge.com/The-Routledge-Handbook-of-the-Political-Economy-of-Health-and-Healthcare/Primrose-Loeppky-Chang/p/book/9780367861360"><i>“The Routledge Handbook of the Political Economy of Health and Healthcare,”</i></a> eds. D. Primrose, R.D. Loeppky, and R. Chang. Routledge: 154—165.</li>
+<b>Forster, T.</b>, Stubbs, T. and Kentikelenis, A., 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development,”</i></a> eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing: 376—391.
 
-<li> <b>Forster, T.</b>, Stubbs, T. and Kentikelenis, A., 2022. “The politics of the International Monetary Fund” in <a href = "https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-international-development-9781839101908.html"><i>“Handbook on the politics of international development,”</i></a> eds. M. Deciancio, P. Nemiña, and D. Tussie. Edward Elgar Publishing: 376—391. </li>
-
-</ol>
 
 ## Policy reports
 

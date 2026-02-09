@@ -31,7 +31,7 @@ Merling, L., and <b>Forster, T.</b>, 2024. <a href = "https://doi.org/10.1111/17
 
 ## Policy reports
 
-Hadji-Lazaro, P., Quorning, S., Fröhlich, T., Theine, H. and <b>Forster, T.</b>, 2022. <a href = "https://www.feps-europe.eu/resources/publications/842:taking-the-temperature-of-the-eu-green-deal.html">“Taking the temperature of the European Green Deal.”</a> Brussels: Foundation for European Progressive Studies (FEPS).
+Hadji-Lazaro, P., Quorning, S., Fröhlich, T., Theine, H. and <b>Forster, T.</b>, 2022. <a href = "https://feps-europe.eu/wp-content/uploads/downloads/publications/ps%20-%20green%20deal.pdf">“Taking the temperature of the European Green Deal.”</a> Brussels: Foundation for European Progressive Studies (FEPS).
 
 Doyle, K., <b>Forster, T.</b>, Kentikelenis, A., Legido-Quigley, H. and Torrecilla, M., 2019. <a href = "https://www.tasc.ie/assets/files/pdf/1953_tasc_health__inequalities_report_2019-final.pdf">“Reducing health inequalities: The role of civil society.”</a> Brussels: Foundation for European Progressive Studies (FEPS) & Think-tank for Action on Social Change (TASC).
 

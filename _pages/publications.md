@@ -42,7 +42,7 @@ Doyle, K., <b>Forster, T.</b>, Kentikelenis, A., Legido-Quigley, H. and Torrecil
 
 <b>Forster, T.</b>, 2024. <a href = "https://www.bu.edu/gdp/2024/07/16/enough-voice-for-the-vulnerable-why-climate-vulnerable-countries-need-more-voting-power-within-the-international-monetary-fund/">“Enough voice for the vulnerable? Why climate-vulnerable countries need more voting power within the International Monetary Fund.”</a> <i>Boston University Global Development Policy Center</i>. 16 July.
 
-<b>Forster, T.</b>, 2024. <a href = "https://doi.org/10.1093/ia/iiae084">“International organizations and research methods: An introduction.”</a> <i>International Affairs</i> 100(3): 1303—1304.
+<b>Forster, T.</b>, 2024. Book review. <a href = "https://doi.org/10.1093/ia/iiae084">“International organizations and research methods: An introduction, edited by Fanny Badache, Leah R Kimber and Lucile Maertens.”</a> <i>International Affairs</i> 100(3): 1303—1304.
 
 <b>Forster, T.</b>, 2024. <a href = "https://imfboss.com/2024/04/02/imf-governance-and-decision-making-why-we-need-to-talk-about-state-representatives/">“IMF governance and decision-making: Why we need to talk about state representatives.”</a> <i>IMF Boss, tracking the fight to head the Fund</i>, Bretton Woods Project. 2 April.
 

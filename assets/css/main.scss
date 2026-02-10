@@ -6,12 +6,12 @@
 /* Change the avatar inside the sidebar */
 .sidebar .author__avatar img {
   width: 100%;
-  max-width: 180px;      /* try 160–200 */
+  max-width: 190px;      /* try 160–200 */
   height: auto;
 }
 
-/* Keep it centered */
-.sidebar .author__avatar {
+/* Optional: Keep it centered */
+/*.sidebar .author__avatar {
   display: flex;
   justify-content: center;
 }

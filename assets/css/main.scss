@@ -8,10 +8,11 @@
   width: 100%;
   max-width: 190px;      /* try 160–200 */
   height: auto;
+  border-radius: 6px;     /* no circle but softened corners */
 }
 
 /* Optional: Keep it centered */
 /*.sidebar .author__avatar {
   display: flex;
-  justify-content: center;
-}
+  justify-content: center; */
+/* } */

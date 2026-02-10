@@ -1,0 +1,16 @@
+/* Larger author avatar in sidebar */
+.author__avatar img {
+  max-width: 220px; /* try 200–260 */
+}
+
+@media (min-width: 1024px) {
+  /* Give the sidebar a bit more room on desktop */
+  .sidebar {
+    width: 320px;
+  }
+
+  .author__avatar {
+    width: 220px;
+    height: auto;
+  }
+}
